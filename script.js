@@ -1,7 +1,3 @@
--- =====================================================
--- Roblox Admin Panel - Premium Edition (FINAL FIX)
--- Fixes: Find/ESP richtig entfernt, Spieleranzahl
--- =====================================================
 
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
